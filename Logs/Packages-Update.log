@@ -1,0 +1,17 @@
+
+=== Sun May 30 10:43:10 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.visualscripting@1.5.2
+The following packages were updated:
+  com.unity.ide.rider from version 1.2.1 to 3.0.6
+  com.unity.ide.visualstudio from version 2.0.2 to 2.0.7
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
+  com.unity.postprocessing from version 2.3.0 to 3.1.0
+  com.unity.shadergraph from version 8.2.0 to 11.0.0
+  com.unity.test-framework from version 1.1.16 to 1.1.24
+  com.unity.textmeshpro from version 3.0.0-preview.1 to 3.0.4
+  com.unity.timeline from version 1.2.16 to 1.5.4
